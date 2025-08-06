@@ -33,7 +33,7 @@
       "name": "360资源"
     },
     "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod","api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
     },
     "wolong": {
@@ -87,7 +87,7 @@
     },
     "custom_category": [
     {
-      "name": "",
+      "name": "短剧",
       "type": "tv",
       "query": "短剧"
     }
